@@ -1,9 +1,10 @@
-Corporate and Socio-Legal Problems in Operating Paridhi Education in Nepal:
+Case of Legal Compliance and Corporate Governance Problems in Operating
+Paridhi Education as a Company Not Distributing Profits in Nepal:
 A Legal Environment for Business Assignment
 
 Cover Page
 
-Assignment Title: Corporate and Socio-Legal Problems in Operating Paridhi Education in Nepal
+Assignment Title: Case of Legal Compliance and Corporate Governance Problems in Operating Paridhi Education as a Company Not Distributing Profits in Nepal
 Course Title: Legal Environment for Business
 Course No.: MGBLW 551
 Level: MBA
@@ -17,7 +18,7 @@ Date of Submission: [Insert Date]
 
 Declaration
 
-I hereby declare that this assignment entitled “Corporate and Socio-Legal Problems in Operating Paridhi Education in Nepal” is my original academic work prepared for the purpose of course requirement in Legal Environment for Business. The legal analysis in this paper is based on course concepts, the documents provided relating to Paridhi Education, and relevant statutory and secondary materials consulted for academic purpose. Wherever external legal or policy materials have been used, they have been acknowledged in the references section.
+I hereby declare that this assignment entitled “Case of Legal Compliance and Corporate Governance Problems in Operating Paridhi Education as a Company Not Distributing Profits in Nepal” is my original academic work prepared for the purpose of course requirement in Legal Environment for Business. The legal analysis in this paper is based on course concepts, the documents provided relating to Paridhi Education, and relevant statutory and secondary materials consulted for academic purpose. Wherever external legal or policy materials have been used, they have been acknowledged in the references section.
 
 Signature: ____________________
 Name: _______________________
@@ -27,13 +28,13 @@ Date: ________________________
 
 The legal environment of business is one of the most important foundations for the establishment, operation, growth, and sustainability of any organization. A business or organization may have a good mission, skilled human resources, and strong social purpose, but without proper legal understanding and compliance, it may face serious operational, financial, and reputational risks. This is even more relevant in Nepal, where organizations have to operate within a complex legal framework shaped by company law, contract law, labor law, intellectual property law, education-related regulation, and changing public policy.
 
-For this assignment, I have selected Paridhi Education as the organization of study. I found this organization suitable because it is newly established and works in an area that is socially important as well as legally sensitive. Paridhi Education aims to improve the quality of education in Nepal with a particular focus on mathematics, teacher development, remedial learning, inclusive education, and educational consultancy. Since it works in the field of education but is registered as a company not distributing profits, it presents an interesting case from the perspective of legal environment for business.
+For this assignment, I have selected Paridhi Education as the organization of study. I found this organization suitable because it is newly established and works in an area that is socially important as well as legally sensitive. Paridhi Education aims to improve the quality of education in Nepal with a particular focus on mathematics, teacher development, remedial learning, inclusive education, and educational consultancy. Since it works in the field of education but is registered as a company not distributing profits, it presents an interesting legal case from the perspective of Legal Environment for Business.
 
-In my understanding, the case of Paridhi Education is not only about legal registration. It raises broader socio-legal and corporate legal questions. How should such an organization structure itself lawfully? What are its obligations as a company not distributing profits? How should it manage contracts, employees, training materials, and stakeholder relationships? What legal difficulties may arise in the context of Nepal’s changing regulatory and political environment? What international legal principles and comparative practices may guide such an organization? These are the major questions addressed in this paper.
+In this paper, the word “case” is used in the sense of an organizational legal case study rather than a decided court case. The case of Paridhi Education is not only about legal registration. It raises broader socio-legal and corporate legal questions. How should such an organization structure itself lawfully? What are its obligations as a company not distributing profits? How should it manage contracts, employees, training materials, and stakeholder relationships? What legal difficulties may arise in the context of Nepal’s changing regulatory and political environment? What international legal principles and comparative practices may guide such an organization? These are the major questions addressed in this paper.
 
-The assignment is organized into five chapters. Chapter One provides a brief introduction of the fact of the case. Chapter Two examines the socio-legal and corporate legal problems affecting the organization. Chapter Three discusses relevant legislation and judicial verdicts. Chapter Four highlights international legal provisions and practices. Chapter Five presents conclusions, suggestions, and recommendations. Although this paper is prepared in student style for academic submission, I have tried to keep the analysis practical and useful in the real context of Nepal.
+The assignment is organized into five chapters. Chapter One provides the facts of the case. Chapter Two examines the socio-legal and corporate legal problems affecting the organization. Chapter Three discusses the principal enactment and other relevant legislation together with judicial verdicts. Chapter Four highlights international legal provisions and practices. Chapter Five presents conclusions, suggestions, and recommendations. Although this paper is prepared in student style for academic submission, I have tried to keep the analysis practical and useful in the real context of Nepal.
 
-2.0 Chapter One: Brief Introduction of Fact of the Case
+2.0 Chapter One: Facts of the Case
 
 2.1 Background of the Organization
 
@@ -53,11 +54,19 @@ From a legal point of view, the organization has to face several questions:
 4. Whether its training manuals, digital resources, and educational content are properly protected or used according to intellectual property law.
 5. Whether its work aligns with Nepal’s constitutional and statutory commitment to education, inclusion, and child rights.
 
-2.3 Core Fact of the Case
+2.3 Statement of the Case
 
-The core fact of the case is that Paridhi Education is a newly registered, mission-driven education organization with strong technical capacity but limited institutional history. As a result, it faces a number of practical legal and socio-legal problems. It must build internal systems for lawful governance, formalize contracts and employment arrangements, maintain transparency as a non-profit-distributing company, protect its intellectual outputs, and operate in a sector where public interest and social accountability are high.
+The present case concerns a newly registered, mission-driven education organization, Paridhi Education, which has strong technical capacity but limited institutional history. As a result, it faces a number of practical legal and socio-legal problems. It must build internal systems for lawful governance, formalize contracts and employment arrangements, maintain transparency as a non-profit-distributing company, protect its intellectual outputs, and operate in a sector where public interest and social accountability are high.
 
 At the same time, the organization works in a Nepali context where project opportunities are often influenced by institutional networks, public procurement can be slow, donor funding has become uncertain, and smaller organizations may struggle to establish credibility. Therefore, the legal problem in this case is not only a matter of statutes on paper. It is also a matter of how law, institutions, power, and social responsibility interact in practice.
+
+2.4 Central Legal Issue in the Case
+
+The central legal issue in this case may be stated as follows:
+
+How can Paridhi Education, a company not distributing profits operating in Nepal’s education sector, ensure lawful governance, contract management, labor compliance, and socially responsible operation while working in a legally regulated but practically difficult environment?
+
+In this sense, the case is not merely about one isolated legal dispute. It is about the larger legal and corporate compliance problem faced by a newly established educational organization in Nepal.
 
 3.0 Chapter Two: Social Legal or Corporate Legal Problems Scanning
 
@@ -128,9 +137,9 @@ Based on the above analysis, the central socio-legal and corporate legal problem
 
 4.0 Chapter Three: Use of Legislative Provisions with Judicial Verdicts
 
-4.1 Principal Enactment: Companies Act, 2063
+4.1 Principal Enactment Relating to the Case: Companies Act, 2063
 
-The most directly relevant enactment for the present topic is the Companies Act, 2063, especially Chapter 19 relating to companies not distributing profits. Since Paridhi Education is registered under this legal form, its legal identity, powers, limitations, and compliance obligations are primarily determined by this Act.
+The most directly relevant enactment for the present case is the Companies Act, 2063, especially Chapter 19 relating to companies not distributing profits. Since Paridhi Education is registered under this legal form, its legal identity, powers, limitations, and compliance obligations are primarily determined by this Act. For this reason, the Companies Act, 2063 should be treated as the principal enactment for analysis in this assignment.
 
 Section 166 allows the incorporation of a company not distributing profits for scientific, academic, social, benevolent, professional, or public utility purposes. This is highly relevant to Paridhi Education because its objectives relate to educational improvement, teacher development, research, and inclusive learning. Thus, its legal form is appropriate to its mission.
 
